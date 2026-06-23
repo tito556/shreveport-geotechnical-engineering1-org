@@ -1,0 +1,47 @@
+# Geotechnical Engineering1 — Shreveport
+
+> Geotechnical engineering services in Shreveport, United States.
+
+## Services
+- [Anchors](https://shreveport.geotechnical-engineering1.org/anchors/)
+- [Atterberg Limits](https://shreveport.geotechnical-engineering1.org/atterberg-limits/)
+- [Cbr Road](https://shreveport.geotechnical-engineering1.org/cbr-road/)
+- [Cpt Test](https://shreveport.geotechnical-engineering1.org/cpt-test/)
+- [Deep Excavations](https://shreveport.geotechnical-engineering1.org/deep-excavations/)
+- [Excavation Monitoring](https://shreveport.geotechnical-engineering1.org/excavation-monitoring/)
+- [Excavations](https://shreveport.geotechnical-engineering1.org/excavations/)
+- [Flexible Pavement](https://shreveport.geotechnical-engineering1.org/flexible-pavement/)
+- [Footings](https://shreveport.geotechnical-engineering1.org/footings/)
+- [Foundations](https://shreveport.geotechnical-engineering1.org/foundations/)
+- [Geophysics](https://shreveport.geotechnical-engineering1.org/geophysics/)
+- [Ground Improvement](https://shreveport.geotechnical-engineering1.org/ground-improvement/)
+- [In Situ Permeability](https://shreveport.geotechnical-engineering1.org/in-situ-permeability/)
+- [Investigation](https://shreveport.geotechnical-engineering1.org/investigation/)
+- [Lab In Situ](https://shreveport.geotechnical-engineering1.org/lab-in-situ/)
+- [Laboratory](https://shreveport.geotechnical-engineering1.org/laboratory/)
+- [Liquefaction](https://shreveport.geotechnical-engineering1.org/liquefaction/)
+- [Masw](https://shreveport.geotechnical-engineering1.org/masw/)
+- [Mat Foundations](https://shreveport.geotechnical-engineering1.org/mat-foundations/)
+- [Plate Load Test](https://shreveport.geotechnical-engineering1.org/plate-load-test/)
+- [Resistivity](https://shreveport.geotechnical-engineering1.org/resistivity/)
+- [Retaining Walls](https://shreveport.geotechnical-engineering1.org/retaining-walls/)
+- [Rigid Pavement](https://shreveport.geotechnical-engineering1.org/rigid-pavement/)
+- [Road Geotechnics](https://shreveport.geotechnical-engineering1.org/road-geotechnics/)
+- [Seismic](https://shreveport.geotechnical-engineering1.org/seismic/)
+- [Seismic Isolation](https://shreveport.geotechnical-engineering1.org/seismic-isolation/)
+- [Seismic Microzonation](https://shreveport.geotechnical-engineering1.org/seismic-microzonation/)
+- [Seismic Refraction](https://shreveport.geotechnical-engineering1.org/seismic-refraction/)
+- [Slope Stability](https://shreveport.geotechnical-engineering1.org/slope-stability/)
+- [Slopes](https://shreveport.geotechnical-engineering1.org/slopes/)
+- [Soft Ground Tunnels](https://shreveport.geotechnical-engineering1.org/soft-ground-tunnels/)
+- [Spt Drilling](https://shreveport.geotechnical-engineering1.org/spt-drilling/)
+- [Stone Columns](https://shreveport.geotechnical-engineering1.org/stone-columns/)
+- [Triaxial](https://shreveport.geotechnical-engineering1.org/triaxial/)
+- [Vibrocompaction](https://shreveport.geotechnical-engineering1.org/vibrocompaction/)
+
+## Contact
+- Website: https://shreveport.geotechnical-engineering1.org/
+
+## About
+This site provides geotechnical engineering services in Shreveport, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
